@@ -1,0 +1,6 @@
+.venv
+logs/*
+plugins/*
+dags/config.py
+.env
+dags/__pycache__/
